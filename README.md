@@ -7,7 +7,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [JavaScript](#JavaScript)
 - [ ] [JAVA](#JAVA)
 
-### [[⬆]](#JavaScript) <a name='JavaScript'>JavaScript(http://javascript.info/)</a>
+### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
 **Event Loop**
 * [What is JavaScript Event Loop](http://altitudelabs.com/blog/what-is-the-javascript-event-loop/)
 * [Event Loop visulization tool](http://latentflip.com/loupe/)
