@@ -3,11 +3,16 @@ Sources to web development, architectural designs followed by languages, interna
 
 
 # JavaScript
-Event Loop - 
+Event Loop 
 
              http://altitudelabs.com/blog/what-is-the-javascript-event-loop/
 
              http://latentflip.com/loupe/
+             
+JavaScript Well Explained
+
+            http://javascript.info/
+             
              
              
              
