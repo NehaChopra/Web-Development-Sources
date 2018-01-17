@@ -2,16 +2,15 @@
 Sources to web development, architectural designs followed by languages, internal working of the languages. Best sources to learn from.
 
 
-# JavaScript
-Event Loop 
 
-             http://altitudelabs.com/blog/what-is-the-javascript-event-loop/
+## <a name='toc'>Table of Contents</a>
+- [ ] [JavaScript](#JavaScript)
+- [ ] [JAVA](#JAVA)
 
-             http://latentflip.com/loupe/
-             
-JavaScript Well Explained
-
-            http://javascript.info/
+### [[⬆]](#JavaScript) <a name='JavaScript'>JavaScript(http://javascript.info/)</a>
+**Event Loop**
+* [What is JavaScript Event Loop](http://altitudelabs.com/blog/what-is-the-javascript-event-loop/)
+* [Event Loop visulization tool](http://latentflip.com/loupe/)
              
              
              
