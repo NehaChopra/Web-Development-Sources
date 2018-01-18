@@ -13,5 +13,11 @@ Sources to web development, architectural designs followed by languages, interna
 * [Event Loop visulization tool](http://latentflip.com/loupe/)
              
              
+### [[⬆]](#JAVA) <a name='JAVA'>JAVA</a>       
+**Java DataStructures**
+* [HashMap](https://www.youtube.com/watch?v=c3RVW3KGIIE&t=366s)
+* [Equals and HashCode contract](https://www.youtube.com/watch?v=IwUwIrz9Ge8)
+
+             
              
              
