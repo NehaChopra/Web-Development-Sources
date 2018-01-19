@@ -15,7 +15,8 @@ Sources to web development, architectural designs followed by languages, interna
              
 ### [[⬆]](#JAVA) <a name='JAVA'>JAVA</a>       
 **Java DataStructures**
-* [HashMap](https://www.youtube.com/watch?v=c3RVW3KGIIE&t=366s)
+* [HashMap Internal Working](https://www.youtube.com/watch?v=c3RVW3KGIIE&t=366s)
+* [HashMap Demonstration with Example](https://www.geeksforgeeks.org/internal-working-of-hashmap-java/)
 * [Equals and HashCode contract](https://www.youtube.com/watch?v=IwUwIrz9Ge8)
 
              
