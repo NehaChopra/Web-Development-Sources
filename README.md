@@ -20,6 +20,9 @@ Sources to web development, architectural designs followed by languages, interna
 * [HashMap Demonstration with Example](https://www.geeksforgeeks.org/internal-working-of-hashmap-java/)
 * [Equals and HashCode contract](https://www.youtube.com/watch?v=IwUwIrz9Ge8)
 
+**Java DesignPatterns**
+* [Factory Design Pattern](https://www.youtube.com/watch?v=ub0DXaeV6hA)
+
 ## [[⬆]](#SQL) <a name='SQL'>SQL</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
 
