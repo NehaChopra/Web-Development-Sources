@@ -22,6 +22,7 @@ Sources to web development, architectural designs followed by languages, interna
 
 **Java DesignPatterns**
 * [Factory Design Pattern](https://www.youtube.com/watch?v=ub0DXaeV6hA)
+* [Singleton Design Pattern](https://www.youtube.com/watch?v=QsBQnFUx388)
 
 ## [[⬆]](#SQL) <a name='SQL'>SQL</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
