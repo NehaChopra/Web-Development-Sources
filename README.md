@@ -7,7 +7,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [JavaScript](#JavaScript)
 - [ ] [JAVA](#JAVA)
 - [ ] [SQL](#SQL)
-- [ ] [General Web Topics](#General Web Topics)
+- [ ] [General Web Topics](#GeneralWebTopics)
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
 **Event Loop**
@@ -33,7 +33,7 @@ Sources to web development, architectural designs followed by languages, interna
 
 
 
-## [[⬆]](#General Web Topics) <a name='General Web Topics'>General Web Topics</a>  
+## [[⬆]](#GeneralWebTopics) <a name='GeneralWebTopics'>General Web Topics</a>  
 * [What happens when you type a URL in a browser](http://edusagar.com/articles/view/70/What-happens-when-you-type-a-URL-in-browser)
 
              
