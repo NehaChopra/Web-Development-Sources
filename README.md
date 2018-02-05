@@ -7,6 +7,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [JavaScript](#JavaScript)
 - [ ] [JAVA](#JAVA)
 - [ ] [SQL](#SQL)
+- [ ] [General Web Topics](#General Web Topics)
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
 **Event Loop**
@@ -29,6 +30,11 @@ Sources to web development, architectural designs followed by languages, interna
 ## [[⬆]](#SQL) <a name='SQL'>SQL</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
 * [Comparing PostgreSQL and MongoDB](https://www.mongodb.com/compare/mongodb-postgresql)
-             
+
+
+
+## [[⬆]](#General Web Topics) <a name='General Web Topics'>General Web Topics</a>  
+* [What happens when you type a URL in a browser](http://edusagar.com/articles/view/70/What-happens-when-you-type-a-URL-in-browser)
+
              
              
