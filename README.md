@@ -20,6 +20,8 @@ Sources to web development, architectural designs followed by languages, interna
 * [HashMap Internal Working](https://www.youtube.com/watch?v=c3RVW3KGIIE&t=366s)
 * [HashMap Demonstration with Example](https://www.geeksforgeeks.org/internal-working-of-hashmap-java/)
 * [Equals and HashCode contract](https://www.youtube.com/watch?v=IwUwIrz9Ge8)
+* [Java NIO](http://tutorials.jenkov.com/java-nio/index.html)
+
 
 **System DesignPatterns**
 * [Factory Design Pattern](https://www.youtube.com/watch?v=ub0DXaeV6hA)
