@@ -37,6 +37,8 @@ Sources to web development, architectural designs followed by languages, interna
 
 ## [[⬆]](#GeneralWebTopics) <a name='GeneralWebTopics'>General Web Topics</a>  
 * [What happens when you type a URL in a browser](http://edusagar.com/articles/view/70/What-happens-when-you-type-a-URL-in-browser)
+* [Babel](https://en.wikipedia.org/wiki/Source-to-source_compiler)
+
 
              
              
