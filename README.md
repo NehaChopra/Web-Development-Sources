@@ -13,6 +13,7 @@ Sources to web development, architectural designs followed by languages, interna
 **Event Loop**
 * [What is JavaScript Event Loop](http://altitudelabs.com/blog/what-is-the-javascript-event-loop/)
 * [Event Loop visulization tool](http://latentflip.com/loupe/)
+* [JS Closure / Lexical Environment](http://javascript.info/closure)
              
              
 ### [[⬆]](#JAVA) <a name='JAVA'>JAVA</a>       
