@@ -23,6 +23,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Equals and HashCode contract](https://www.youtube.com/watch?v=IwUwIrz9Ge8)
 * [Java NIO](http://tutorials.jenkov.com/java-nio/index.html)
 * [Java Serialization](http://www.baeldung.com/java-serialization)
+* [Java Annotation](https://dzone.com/articles/how-annotations-work-java)
 
 
 **System DesignPatterns**
