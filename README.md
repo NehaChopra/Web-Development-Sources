@@ -24,6 +24,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Java NIO](http://tutorials.jenkov.com/java-nio/index.html)
 * [Java Serialization](http://www.baeldung.com/java-serialization)
 * [Java Annotation](https://dzone.com/articles/how-annotations-work-java)
+* [Java Lamda Experssions](https://medium.freecodecamp.org/learn-these-4-things-and-working-with-lambda-expressions-b0ab36e0fffc)
 
 
 **System DesignPatterns**
