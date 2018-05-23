@@ -8,6 +8,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [JAVA](#JAVA)
 - [ ] [SQL](#SQL)
 - [ ] [General Web Topics](#GeneralWebTopics)
+- [ ] [KAFKA](#KAFKA)
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
 **Event Loop**
@@ -43,6 +44,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [What happens when you type a URL in a browser](http://edusagar.com/articles/view/70/What-happens-when-you-type-a-URL-in-browser)
 * [Babel](https://en.wikipedia.org/wiki/Source-to-source_compiler)
 
-
+## [[⬆]](#KAFKA) <a name='KAFKA'>KAFKA</a>  
+* [KAFKA](https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html)
              
              
