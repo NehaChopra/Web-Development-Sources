@@ -46,5 +46,5 @@ Sources to web development, architectural designs followed by languages, interna
 
 ## [[⬆]](#KAFKA) <a name='KAFKA'>KAFKA</a>  
 * [CLOUD KARAFKA](https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html)
-* [kAFKA] (https://www.youtube.com/watch?v=gg-VwXSRnmg&list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON)
+* [kAFKA](https://www.youtube.com/watch?v=gg-VwXSRnmg&list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON)
              
