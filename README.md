@@ -33,6 +33,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Singleton Design Pattern 1](https://www.youtube.com/watch?v=QsBQnFUx388)
 * [Singleton Design Pattern 2](https://www.youtube.com/watch?v=GH5_lhFShfU)
 * [DESIGN A PARKING LOT](https://www.youtube.com/watch?v=DSGsa0pu8-k)
+* [Observer Design Pattern](https://www.youtube.com/watch?v=wiQdrH2YpT4)
 
 ## [[⬆]](#SQL) <a name='SQL'>SQL</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
