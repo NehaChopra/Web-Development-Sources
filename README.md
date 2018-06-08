@@ -9,6 +9,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [SQL](#SQL)
 - [ ] [General Web Topics](#GeneralWebTopics)
 - [ ] [KAFKA](#KAFKA)
+- [ ] [System Architect Samples](#System Architect Samples)
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
 **Event Loop**
@@ -50,3 +51,6 @@ Sources to web development, architectural designs followed by languages, interna
 * [CLOUD KARAFKA](https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html)
 * [kAFKA](https://www.youtube.com/watch?v=gg-VwXSRnmg&list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON)
              
+
+## [[⬆]](#SystemArchitectSamples) <a name='SystemArchitectSamples'>System Architect Samples</a>  
+* [Image Hosting Application](http://www.aosabook.org/en/distsys.html)
