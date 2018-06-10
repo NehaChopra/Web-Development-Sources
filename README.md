@@ -6,7 +6,7 @@ Sources to web development, architectural designs followed by languages, interna
 ## <a name='toc'>Table of Contents</a>
 - [ ] [JavaScript](#JavaScript)
 - [ ] [JAVA](#JAVA)
-- [ ] [SQL](#SQL)
+- [ ] [DATABASE](#DATABASE)
 - [ ] [General Web Topics](#GeneralWebTopics)
 - [ ] [KAFKA](#KAFKA)
 - [ ] [System Architect Samples](#System Architect Samples)
@@ -37,9 +37,10 @@ Sources to web development, architectural designs followed by languages, interna
 * [Observer Design Pattern](https://www.youtube.com/watch?v=wiQdrH2YpT4)
 * [Decorator Design Pattern](https://www.youtube.com/watch?v=j40kRwSm4VE)
 
-## [[⬆]](#SQL) <a name='SQL'>SQL</a>  
+## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
 * [Comparing PostgreSQL and MongoDB](https://www.mongodb.com/compare/mongodb-postgresql)
+* [Sharding](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
 
 
 
