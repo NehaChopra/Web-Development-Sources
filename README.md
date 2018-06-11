@@ -41,6 +41,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
 * [Comparing PostgreSQL and MongoDB](https://www.mongodb.com/compare/mongodb-postgresql)
 * [Sharding](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
+* [GEOSharding Optimization](https://fenix.tecnico.ulisboa.pt/downloadFile/1407770020544988/Extended%20Abstract.pdf)
 
 
 
