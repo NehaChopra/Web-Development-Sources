@@ -57,3 +57,4 @@ Sources to web development, architectural designs followed by languages, interna
 ## [[⬆]](#SystemArchitectSamples) <a name='SystemArchitectSamples'>System Architect Samples</a>  
 * [Image Hosting Application](http://www.aosabook.org/en/distsys.html)
 * [Flickr Architecture](http://highscalability.com/flickr-architecture)
+* [Facebook memcached](https://www.facebook.com/note.php?note_id=39391378919)
