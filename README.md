@@ -53,7 +53,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [CLOUD KARAFKA](https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html)
 * [kAFKA Tutorial](https://www.youtube.com/watch?v=gg-VwXSRnmg&list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON)
 * [Running Kafka At Scale](https://engineering.linkedin.com/kafka/running-kafka-scale)
-             
+* [Generic Serializer - Apache Avro](http://hadooptutorial.info/avro-serializing-and-deserializing-example-java-api/)             
 
 ## [[⬆]](#SystemArchitectSamples) <a name='SystemArchitectSamples'>System Architect Samples</a>  
 * [Image Hosting Application](http://www.aosabook.org/en/distsys.html)
