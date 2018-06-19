@@ -59,3 +59,4 @@ Sources to web development, architectural designs followed by languages, interna
 * [Image Hosting Application](http://www.aosabook.org/en/distsys.html)
 * [Flickr Architecture](http://highscalability.com/flickr-architecture)
 * [Facebook memcached](https://www.facebook.com/note.php?note_id=39391378919)
+* [Microservice Architecture Experience](https://hackernoon.com/microservices-are-hard-an-invaluable-guide-to-microservices-2d06bd7bcf5d)
