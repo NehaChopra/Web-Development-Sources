@@ -61,3 +61,4 @@ Sources to web development, architectural designs followed by languages, interna
 * [Facebook memcached](https://www.facebook.com/note.php?note_id=39391378919)
 * [Microservice Architecture Experience](https://hackernoon.com/microservices-are-hard-an-invaluable-guide-to-microservices-2d06bd7bcf5d)
 * [Microservice Architecture Explained by ThoughtWorks](https://martinfowler.com/microservices/)
+* [Microservice vs SOA](https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
