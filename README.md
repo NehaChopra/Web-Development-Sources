@@ -67,6 +67,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Microservice vs SOA](https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/)
 * [Scaling via scalecube](http://microservices.io/articles/scalecube.html)
 * [Locality Of Reference - Ehcache](http://highscalability.com/ehcache-java-distributed-cache)
+* [Web Caching](https://www.digitalocean.com/community/tutorials/web-caching-basics-terminology-http-headers-and-caching-strategies)
 
 
 ## [[⬆]](#SPRING) <a name='SPRING'>SPRING</a>  
