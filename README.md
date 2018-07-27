@@ -68,6 +68,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Scaling via scalecube](http://microservices.io/articles/scalecube.html)
 * [Locality Of Reference - Ehcache](http://highscalability.com/ehcache-java-distributed-cache)
 * [Web Caching](https://www.digitalocean.com/community/tutorials/web-caching-basics-terminology-http-headers-and-caching-strategies)
+* [Web Caching Techniques](http://qnimate.com/all-about-web-caching/)
 
 
 ## [[⬆]](#SPRING) <a name='SPRING'>SPRING</a>  
