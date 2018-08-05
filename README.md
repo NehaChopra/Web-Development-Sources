@@ -9,7 +9,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [DATABASE](#DATABASE)
 - [ ] [General Web Topics](#GeneralWebTopics)
 - [ ] [KAFKA](#KAFKA)
-- [ ] [System Architect Samples](#System Architect Samples)
+- [ ] [System Architect Samples](#SystemArchitectSamples)
 - [ ] [SPRING](#SPRING)
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
