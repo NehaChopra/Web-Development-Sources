@@ -32,6 +32,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Java Concurrency / Multithreading Tutorial](http://tutorials.jenkov.com/java-concurrency/concurrency-vs-parallelism.html)
 * [Java Concurrency Utilities](http://tutorials.jenkov.com/java-util-concurrent/index.html)
 * [Collection internal working with objects](https://www.javabrahman.com/corejava/understanding-equals-and-hashcode-contract-when-using-collections-in-java/)
+* [immutable Class](https://www.journaldev.com/129/how-to-create-immutable-class-in-java)
 
 
 **System DesignPatterns**
