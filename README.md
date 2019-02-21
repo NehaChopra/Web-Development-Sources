@@ -35,6 +35,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Collection internal working with objects](https://www.javabrahman.com/corejava/understanding-equals-and-hashcode-contract-when-using-collections-in-java/)
 * [Immutable Class](https://www.journaldev.com/129/how-to-create-immutable-class-in-java)
 * [Java Heap and Stack Memory](https://www.linkedin.com/pulse/java-heap-stack-memory-behind-scene-albertus-kelvin)
+* [JDBC](http://tutorials.jenkov.com/jdbc/databasemetadata.html)
 
 
 **System DesignPatterns**
