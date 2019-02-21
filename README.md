@@ -37,6 +37,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Java Heap and Stack Memory](https://www.linkedin.com/pulse/java-heap-stack-memory-behind-scene-albertus-kelvin)
 * [JDBC](http://tutorials.jenkov.com/jdbc/databasemetadata.html)
 * [Maven](http://tutorials.jenkov.com/maven/maven-tutorial.html)
+* [Philosophy of Maven](http://maven.apache.org/background/philosophy-of-maven.html)
 
 
 **System DesignPatterns**
