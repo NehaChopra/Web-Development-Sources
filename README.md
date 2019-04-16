@@ -40,7 +40,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Philosophy of Maven](http://maven.apache.org/background/philosophy-of-maven.html)
 * [Garbage Collector](https://www.journaldev.com/16659/garbage-collection-in-java)
 * [Java (JVM) Memory Model – Memory Management in Java](https://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java)
-* [Java Garbage Collection Basics - Oracle Documentation]https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
+* [Java Garbage Collection Basics]https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 
 
 
