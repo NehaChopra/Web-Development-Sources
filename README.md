@@ -38,6 +38,9 @@ Sources to web development, architectural designs followed by languages, interna
 * [JDBC](http://tutorials.jenkov.com/jdbc/databasemetadata.html)
 * [Maven](http://tutorials.jenkov.com/maven/maven-tutorial.html)
 * [Philosophy of Maven](http://maven.apache.org/background/philosophy-of-maven.html)
+* [Garbage Collector](https://www.journaldev.com/16659/garbage-collection-in-java)
+* [Java (JVM) Memory Model – Memory Management in Java](https://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java)
+
 
 
 **System DesignPatterns**
