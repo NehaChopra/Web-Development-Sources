@@ -42,7 +42,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Java (JVM) Memory Model – Memory Management in Java](https://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java)
 * [Java Garbage Collection Basics](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 * [Garbage-First Garbage Collector](https://docs.oracle.com/javase/9/gctuning/garbage-first-garbage-collector.htm#JSGCT-GUID-ED3AB6D3-FD9B-4447-9EDF-983ED2F7A573)
-* [Garbage Collection Chapters]https://javapapers.com/java/java-garbage-collection-introduction/
+* [Garbage Collection Chapters](https://javapapers.com/java/java-garbage-collection-introduction/)
 
 
 
