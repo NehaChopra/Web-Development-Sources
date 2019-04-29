@@ -11,6 +11,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [KAFKA](#KAFKA)
 - [ ] [System Architect Samples](#SystemArchitectSamples)
 - [ ] [SPRING](#SPRING)
+- [ ] [AEROSPIKE](#Aerospike)
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
 **Event Loop**
@@ -90,3 +91,6 @@ Sources to web development, architectural designs followed by languages, interna
 
 ## [[⬆]](#SPRING) <a name='SPRING'>SPRING</a>  
 * [SPRING-Liquibase](https://medium.com/@harittweets/evolving-your-database-using-spring-boot-and-liquibase-844fcd7931da)
+
+### [[⬆]](#Aerospike) <a name='Aerospike' href='http://javascript.info/'>JavaScript</a>
+* [Into To Aerospike](https://www.youtube.com/watch?v=PA7PGWphW8M)
