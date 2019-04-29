@@ -92,5 +92,5 @@ Sources to web development, architectural designs followed by languages, interna
 ## [[⬆]](#SPRING) <a name='SPRING'>SPRING</a>  
 * [SPRING-Liquibase](https://medium.com/@harittweets/evolving-your-database-using-spring-boot-and-liquibase-844fcd7931da)
 
-### [[⬆]](#Aerospike) <a name='Aerospike' href='http://javascript.info/'>JavaScript</a>
+### [[⬆]](#Aerospike) <a name='Aerospike'>Aerospike</a>
 * [Into To Aerospike](https://www.youtube.com/watch?v=PA7PGWphW8M)
