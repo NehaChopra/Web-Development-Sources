@@ -92,6 +92,7 @@ Sources to web development, architectural designs followed by languages, interna
 ## [[⬆]](#SPRING) <a name='SPRING'>SPRING</a>  
 * [SPRING-Liquibase](https://medium.com/@harittweets/evolving-your-database-using-spring-boot-and-liquibase-844fcd7931da)
 * [SPRING-JWT Security](https://www.toptal.com/java/rest-security-with-jwt-spring-security-and-java)
+* [JSON Web Token Use Case](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
 
 ### [[⬆]](#Aerospike) <a name='Aerospike'>Aerospike</a>
 * [Into To Aerospike](https://www.youtube.com/watch?v=PA7PGWphW8M)
