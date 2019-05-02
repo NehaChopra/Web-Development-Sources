@@ -97,3 +97,4 @@ Sources to web development, architectural designs followed by languages, interna
 
 ### [[⬆]](#Aerospike) <a name='Aerospike'>Aerospike</a>
 * [Into To Aerospike](https://www.youtube.com/watch?v=PA7PGWphW8M)
+* [Aerospike Serialiazable error]https://stackoverflow.com/questions/26568205/resolve-a-java-util-arraylistsublist-notserializable-exception
