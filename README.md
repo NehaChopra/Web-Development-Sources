@@ -94,6 +94,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [SPRING-JWT Security](https://www.toptal.com/java/rest-security-with-jwt-spring-security-and-java)
 * [JSON Web Token Use Case](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
 * [JWT WIKI](https://en.wikipedia.org/wiki/JSON_Web_Token#Standard_fields)
+* [Spring Logback](https://springframework.guru/using-logback-spring-boot/)
 
 ### [[⬆]](#Aerospike) <a name='Aerospike'>Aerospike</a>
 * [Into To Aerospike](https://www.youtube.com/watch?v=PA7PGWphW8M)
