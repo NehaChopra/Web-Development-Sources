@@ -87,7 +87,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Web Caching](https://www.digitalocean.com/community/tutorials/web-caching-basics-terminology-http-headers-and-caching-strategies)
 * [Web Caching Techniques](http://qnimate.com/all-about-web-caching/)
 * [Aerospike at goibibo](https://medium.com/@neeraj.koul/caching-revamp-at-goibibo-with-aerospike-f8f0d8be9421)
-
+* [quartz-scheduler-vs-spring-scheduler](https://khalidsaleem.blogspot.com/2015/03/quartz-scheduler-vs-spring-scheduler.html)
 
 ## [[⬆]](#SPRING) <a name='SPRING'>SPRING</a>  
 * [SPRING-Liquibase](https://medium.com/@harittweets/evolving-your-database-using-spring-boot-and-liquibase-844fcd7931da)
