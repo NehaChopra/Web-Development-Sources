@@ -95,6 +95,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [JSON Web Token Use Case](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
 * [JWT WIKI](https://en.wikipedia.org/wiki/JSON_Web_Token#Standard_fields)
 * [Spring Logback](https://springframework.guru/using-logback-spring-boot/)
+* [Scheduling in Spring with Quartz](https://www.baeldung.com/spring-quartz-schedule)
 
 ### [[⬆]](#Aerospike) <a name='Aerospike'>Aerospike</a>
 * [Into To Aerospike](https://www.youtube.com/watch?v=PA7PGWphW8M)
