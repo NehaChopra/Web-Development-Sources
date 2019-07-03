@@ -45,6 +45,9 @@ Sources to web development, architectural designs followed by languages, interna
 * [Garbage-First Garbage Collector](https://docs.oracle.com/javase/9/gctuning/garbage-first-garbage-collector.htm#JSGCT-GUID-ED3AB6D3-FD9B-4447-9EDF-983ED2F7A573)
 * [Garbage Collection Chapters](https://javapapers.com/java/java-garbage-collection-introduction/)
 * [GC Tutorial](https://www.youtube.com/watch?v=UnaNQgzw4zY)
+* [shallow-vs-deep copy](https://dzone.com/articles/java-copy-shallow-vs-deep-in-which-you-will-swim)
+
+
 
 
 
