@@ -100,6 +100,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Spring Logback](https://springframework.guru/using-logback-spring-boot/)
 * [Scheduling in Spring with Quartz](https://www.baeldung.com/spring-quartz-schedule)
 * [When POJO is camel case and JSON Is snake case](https://stackoverflow.com/questions/10519265/jackson-overcoming-underscores-in-favor-of-camel-case)
+* [Logging in Spring Boot](https://www.baeldung.com/spring-boot-logging)
 
 ### [[⬆]](#Aerospike) <a name='Aerospike'>Aerospike</a>
 * [Into To Aerospike](https://www.youtube.com/watch?v=PA7PGWphW8M)
