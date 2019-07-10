@@ -102,6 +102,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [When POJO is camel case and JSON Is snake case](https://stackoverflow.com/questions/10519265/jackson-overcoming-underscores-in-favor-of-camel-case)
 * [Logging in Spring Boot](https://www.baeldung.com/spring-boot-logging)
 * [Log Incoming Requests](https://www.baeldung.com/spring-http-logging)
+* [Why Spring boot Framework popular](https://dzone.com/articles/why-springboot)
 
 ### [[⬆]](#Aerospike) <a name='Aerospike'>Aerospike</a>
 * [Into To Aerospike](https://www.youtube.com/watch?v=PA7PGWphW8M)
