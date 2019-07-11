@@ -104,6 +104,9 @@ Sources to web development, architectural designs followed by languages, interna
 * [Log Incoming Requests](https://www.baeldung.com/spring-http-logging)
 * [Why Spring boot Framework popular](https://dzone.com/articles/why-springboot)
 * [JPA Criteria Queries](https://www.baeldung.com/hibernate-criteria-queries)
+* [Spring Boot Annotations](https://www.baeldung.com/spring-boot-annotations)
+* [Spring Web Annotations](https://www.baeldung.com/spring-mvc-annotations)
+* [Spring Core Annotations](https://www.baeldung.com/spring-core-annotations)
 
 
 ### [[⬆]](#Aerospike) <a name='Aerospike'>Aerospike</a>
