@@ -107,6 +107,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Spring Boot Annotations](https://www.baeldung.com/spring-boot-annotations)
 * [Spring Web Annotations](https://www.baeldung.com/spring-mvc-annotations)
 * [Spring Core Annotations](https://www.baeldung.com/spring-core-annotations)
+* [Spring CORS](https://www.baeldung.com/spring-cors)
 
 
 ### [[⬆]](#Aerospike) <a name='Aerospike'>Aerospike</a>
