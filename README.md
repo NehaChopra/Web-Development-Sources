@@ -109,6 +109,8 @@ Sources to web development, architectural designs followed by languages, interna
 * [Spring Core Annotations](https://www.baeldung.com/spring-core-annotations)
 * [Spring CORS](https://www.baeldung.com/spring-cors)
 * [Spring Beans Scope](https://www.baeldung.com/spring-bean-scopes)
+* [Spring Autowire](https://www.baeldung.com/spring-autowire)
+
 
 
 ### [[⬆]](#Aerospike) <a name='Aerospike'>Aerospike</a>
