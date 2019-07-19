@@ -111,6 +111,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Spring Beans Scope](https://www.baeldung.com/spring-bean-scopes)
 * [Spring Autowire](https://www.baeldung.com/spring-autowire)
 * [Constructor Dependency injection](https://www.baeldung.com/constructor-injection-in-spring)
+* [Spring Security Multiple Roles](https://stackoverflow.com/questions/24010597/spring-security-access-with-multiple-roles)
 
 
 
