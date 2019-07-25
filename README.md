@@ -113,7 +113,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Constructor Dependency injection](https://www.baeldung.com/constructor-injection-in-spring)
 * [Spring Security Multiple Roles](https://stackoverflow.com/questions/24010597/spring-security-access-with-multiple-roles)
 * [Spring Data JPA @Query](https://www.baeldung.com/spring-data-jpa-query)
-
+* [Customer Exception in Filters](https://stackoverflow.com/questions/34595605/how-to-manage-exceptions-thrown-in-filters-in-spring)
 
 
 ### [[⬆]](#Aerospike) <a name='Aerospike'>Aerospike</a>
