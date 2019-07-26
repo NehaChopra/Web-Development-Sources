@@ -91,6 +91,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Web Caching Techniques](http://qnimate.com/all-about-web-caching/)
 * [Aerospike at goibibo](https://medium.com/@neeraj.koul/caching-revamp-at-goibibo-with-aerospike-f8f0d8be9421)
 * [quartz-scheduler-vs-spring-scheduler](https://khalidsaleem.blogspot.com/2015/03/quartz-scheduler-vs-spring-scheduler.html)
+* [Medium Microservice Approach](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
 
 ## [[⬆]](#SPRING) <a name='SPRING'>SPRING</a>  
 * [SPRING-Liquibase](https://medium.com/@harittweets/evolving-your-database-using-spring-boot-and-liquibase-844fcd7931da)
