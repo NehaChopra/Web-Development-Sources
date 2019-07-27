@@ -116,6 +116,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Spring Data JPA @Query](https://www.baeldung.com/spring-data-jpa-query)
 * [Customer Exception in Filters](https://stackoverflow.com/questions/34595605/how-to-manage-exceptions-thrown-in-filters-in-spring)
 * [Authentication Provider](https://www.baeldung.com/spring-security-authentication-provider)
+* [spring-security-authentication](https://dzone.com/articles/spring-security-authentication)
 
 
 ### [[⬆]](#Aerospike) <a name='Aerospike'>Aerospike</a>
