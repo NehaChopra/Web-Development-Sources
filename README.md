@@ -67,6 +67,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Clustered and Nonclustered Indexes](https://docs.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-2017)
 * [Clustered and Nonclustered Visual](https://www.youtube.com/watch?v=ITcOiLSfVJQ)
 * [high-level-sql-query-concepts](https://medium.com/@StevenLeiva1/high-level-sql-query-concepts-5f62ffff83ff)
+* [MERGE SQL](http://www.sqlservertutorial.net/sql-server-basics/sql-server-merge/)
 
 
 ## [[⬆]](#GeneralWebTopics) <a name='GeneralWebTopics'>General Web Topics</a>  
