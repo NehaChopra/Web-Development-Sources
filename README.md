@@ -58,6 +58,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [DESIGN A PARKING LOT](https://www.youtube.com/watch?v=DSGsa0pu8-k)
 * [Observer Design Pattern](https://www.youtube.com/watch?v=wiQdrH2YpT4)
 * [Decorator Design Pattern](https://www.youtube.com/watch?v=j40kRwSm4VE)
+* [Approach a system design interview](https://medium.com/system-designing-interviews/approach-a-system-design-interview-f3594e243730)
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
