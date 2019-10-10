@@ -96,6 +96,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Aerospike at goibibo](https://medium.com/@neeraj.koul/caching-revamp-at-goibibo-with-aerospike-f8f0d8be9421)
 * [quartz-scheduler-vs-spring-scheduler](https://khalidsaleem.blogspot.com/2015/03/quartz-scheduler-vs-spring-scheduler.html)
 * [Medium Microservice Approach](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
+* [the-architecture-and-history-of-git-a-distributed-version-control-system](https://medium.com/@willhayjr/the-architecture-and-history-of-git-a-distributed-version-control-system-62b17dd37742)
 
 ## [[⬆]](#SPRING) <a name='SPRING'>SPRING</a>  
 * [SPRING-Liquibase](https://medium.com/@harittweets/evolving-your-database-using-spring-boot-and-liquibase-844fcd7931da)
