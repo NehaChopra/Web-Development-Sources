@@ -69,6 +69,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Clustered and Nonclustered Visual](https://www.youtube.com/watch?v=ITcOiLSfVJQ)
 * [high-level-sql-query-concepts](https://medium.com/@StevenLeiva1/high-level-sql-query-concepts-5f62ffff83ff)
 * [MERGE SQL](http://www.sqlservertutorial.net/sql-server-basics/sql-server-merge/)
+* [database-sharding](https://medium.com/system-design-blog/database-sharding-69f3f4bd96db)
 
 
 ## [[⬆]](#GeneralWebTopics) <a name='GeneralWebTopics'>General Web Topics</a>  
