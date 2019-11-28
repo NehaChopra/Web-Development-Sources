@@ -60,7 +60,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Decorator Design Pattern](https://www.youtube.com/watch?v=j40kRwSm4VE)
 * [Approach a system design interview](https://medium.com/system-designing-interviews/approach-a-system-design-interview-f3594e243730)
 * [CAP theorem](https://towardsdatascience.com/cap-theorem-and-distributed-database-management-systems-5c2be977950e)
-
+* [Solved System Design](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
