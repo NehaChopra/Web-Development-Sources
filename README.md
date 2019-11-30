@@ -19,6 +19,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Event Loop visulization tool](http://latentflip.com/loupe/)
 * [JS Closure / Lexical Environment](http://javascript.info/closure)
 * [Yarn / npm](https://www.sitepoint.com/yarn-vs-npm/)
+* [React Babel and Webpack](https://medium.com/@siddharthac6/getting-started-with-react-js-using-webpack-and-babel-66549f8fbcb8)
              
              
 ### [[⬆]](#JAVA) <a name='JAVA'>JAVA</a>       
