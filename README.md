@@ -63,6 +63,9 @@ Sources to web development, architectural designs followed by languages, interna
 * [CAP theorem](https://towardsdatascience.com/cap-theorem-and-distributed-database-management-systems-5c2be977950e)
 * [Solved System Design](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
 * [You tube Design - 1](http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/)
+* [You tube scalability](http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html)
+
+
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
