@@ -65,6 +65,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [You tube Design - 1](http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/)
 * [You tube Design - 2](http://blog.gainlo.co/index.php/2016/11/04/design-youtube-part-ii/)
 * [You tube scalability](http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html)
+* [URL shortner](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
 
 
 
