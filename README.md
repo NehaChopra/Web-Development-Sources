@@ -67,6 +67,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [You tube scalability](http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html)
 * [URL shortner](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
 * [Cache System](http://blog.gainlo.co/index.php/2016/05/17/design-a-cache-system/)
+* [Design a Modern Cache](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
 
 
 
