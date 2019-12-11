@@ -68,6 +68,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [URL shortner](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
 * [Cache System](http://blog.gainlo.co/index.php/2016/05/17/design-a-cache-system/)
 * [Design a Modern Cache](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
+* [Caffeine efficienty](https://github.com/ben-manes/caffeine/wiki/Efficiency)
 
 
 
