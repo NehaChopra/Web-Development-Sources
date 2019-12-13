@@ -70,6 +70,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Design a Modern Cache](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
 * [Caffeine efficienty](https://github.com/ben-manes/caffeine/wiki/Efficiency)
 * [Commit Log](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+* [The Architecture and History of Git](https://medium.com/@willhayjr/the-architecture-and-history-of-git-a-distributed-version-control-system-62b17dd37742)
 
 
 
