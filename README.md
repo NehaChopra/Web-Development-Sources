@@ -77,8 +77,8 @@ Sources to web development, architectural designs followed by languages, interna
 * [Design a Garbage Collection System - 1](http://blog.gainlo.co/index.php/2016/07/25/design-a-garbage-collection-system-part-i/
 * [Design a Garbage Collection System - 2](http://blog.gainlo.co/index.php/2016/08/08/design-garbage-collection-system-part-ii/)
 * [Java Garbage Collection Basics](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
-* [Design a Key-Value Store](http://blog.gainlo.co/index.php/2016/06/14/design-a-key-value-store-part-i/)
-
+* [Design a Key-Value Store - 1](http://blog.gainlo.co/index.php/2016/06/14/design-a-key-value-store-part-i/)
+* [Design a Key-Value Store - 2](http://blog.gainlo.co/index.php/2016/06/21/design-key-value-store-part-ii/)
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
