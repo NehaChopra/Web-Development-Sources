@@ -92,6 +92,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [high-level-sql-query-concepts](https://medium.com/@StevenLeiva1/high-level-sql-query-concepts-5f62ffff83ff)
 * [MERGE SQL](http://www.sqlservertutorial.net/sql-server-basics/sql-server-merge/)
 * [database-sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
+* [Web Crawler](http://blog.gainlo.co/index.php/2016/06/29/build-web-crawler/)
 
 
 ## [[⬆]](#GeneralWebTopics) <a name='GeneralWebTopics'>General Web Topics</a>  
