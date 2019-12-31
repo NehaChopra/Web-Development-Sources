@@ -73,8 +73,8 @@ Sources to web development, architectural designs followed by languages, interna
 * [Caffeine efficienty](https://github.com/ben-manes/caffeine/wiki/Efficiency)
 * [Commit Log](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [The Architecture and History of Git](https://medium.com/@willhayjr/the-architecture-and-history-of-git-a-distributed-version-control-system-62b17dd37742)
-* [Distributed Version Control System](https://dev.to/kodekage/git-backend-behind-the-scene-12l5
-* [Design a Garbage Collection System - 1](http://blog.gainlo.co/index.php/2016/07/25/design-a-garbage-collection-system-part-i/
+* [Distributed Version Control System](https://dev.to/kodekage/git-backend-behind-the-scene-12l5)
+* [Design a Garbage Collection System - 1](http://blog.gainlo.co/index.php/2016/07/25/design-a-garbage-collection-system-part-i/)
 * [Design a Garbage Collection System - 2](http://blog.gainlo.co/index.php/2016/08/08/design-garbage-collection-system-part-ii/)
 * [Java Garbage Collection Basics](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 * [Design a Key-Value Store - 1](http://blog.gainlo.co/index.php/2016/06/14/design-a-key-value-store-part-i/)
