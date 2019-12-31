@@ -79,7 +79,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Java Garbage Collection Basics](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 * [Design a Key-Value Store - 1](http://blog.gainlo.co/index.php/2016/06/14/design-a-key-value-store-part-i/)
 * [Design a Key-Value Store - 2](http://blog.gainlo.co/index.php/2016/06/21/design-key-value-store-part-ii/)
-* [Random id generator](http://blog.gainlo.co/index.php/2016/06/07/random-id-generator
+* [Random id generator](http://blog.gainlo.co/index.php/2016/06/07/random-id-generator)
 * [distributed-unique-id-sequence-number-generator](https://www.callicoder.com/distributed-unique-id-sequence-number-generator/)
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
