@@ -79,6 +79,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Java Garbage Collection Basics](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 * [Design a Key-Value Store - 1](http://blog.gainlo.co/index.php/2016/06/14/design-a-key-value-store-part-i/)
 * [Design a Key-Value Store - 2](http://blog.gainlo.co/index.php/2016/06/21/design-key-value-store-part-ii/)
+* [Random id generator](http://blog.gainlo.co/index.php/2016/06/07/random-id-generator/)
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
