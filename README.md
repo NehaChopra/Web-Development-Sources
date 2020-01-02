@@ -82,6 +82,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Random id generator](http://blog.gainlo.co/index.php/2016/06/07/random-id-generator)
 * [distributed-unique-id-sequence-number-generator](https://www.callicoder.com/distributed-unique-id-sequence-number-generator/)
 * [Web Crawler](http://blog.gainlo.co/index.php/2016/06/29/build-web-crawler/)
+* [Design eCommerce Website (Part I)](http://blog.gainlo.co/index.php/2016/08/22/design-ecommerce-website-part/)
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
