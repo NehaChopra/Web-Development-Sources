@@ -50,7 +50,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [GC Tutorial](https://www.youtube.com/watch?v=UnaNQgzw4zY)
 * [shallow-vs-deep copy](https://dzone.com/articles/java-copy-shallow-vs-deep-in-which-you-will-swim)
 * [synchronisation java](https://medium.com/mindorks/synchronisation-101-with-java-bb11a7d651da)
-
+* [optimistic-vs-pessimistic-locking](https://stackoverflow.com/questions/129329/optimistic-vs-pessimistic-locking)
 
 
 
