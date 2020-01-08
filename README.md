@@ -84,6 +84,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Web Crawler](http://blog.gainlo.co/index.php/2016/06/29/build-web-crawler/)
 * [Design eCommerce Website (Part I)](http://blog.gainlo.co/index.php/2016/08/22/design-ecommerce-website-part/)
 * [Design eCommerce Website (Part 2)](http://blog.gainlo.co/index.php/2016/08/28/design-ecommerce-website-part-ii/)
+* [Design Hit Counter](http://blog.gainlo.co/index.php/2016/09/12/dropbox-interview-design-hit-counter/)
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
