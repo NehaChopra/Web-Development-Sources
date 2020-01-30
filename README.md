@@ -110,6 +110,11 @@ Sources to web development, architectural designs followed by languages, interna
 * [Generic Serializer - Apache Avro](http://hadooptutorial.info/avro-serializing-and-deserializing-example-java-api/)
 * [KAFKA ARCHITECTURE by Confluent](https://www.confluent.io/blog/apache-kafka-for-service-architectures/)
 * [KAFKA ARCHITECTURE Log Compaction](https://dzone.com/articles/kafka-architecture-log-compaction)
+* [KAFKA ARCHITECTURE](https://dzone.com/articles/kafka-architecture)
+* [KAFKA Topic ARCHITECTURE](https://dzone.com/articles/kafka-topic-architecture-replication-failover-and)
+* [KAFKA Producer ARCHITECTURE](https://dzone.com/articles/kafka-producer-architecture-picking-the-partition)
+* [KAFKA Consumer ARCHITECTURE](https://dzone.com/articles/kafka-consumer-architecture-consumer-groups-and-su)
+* [KAFKA Detail Design](https://dzone.com/articles/kafka-detailed-design-and-ecosystem)
 
 ## [[⬆]](#SystemArchitectSamples) <a name='SystemArchitectSamples'>System Architect Samples</a>  
 * [Image Hosting Application](http://www.aosabook.org/en/distsys.html)
