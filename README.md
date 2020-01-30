@@ -109,6 +109,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Running Kafka At Scale](https://engineering.linkedin.com/kafka/running-kafka-scale)
 * [Generic Serializer - Apache Avro](http://hadooptutorial.info/avro-serializing-and-deserializing-example-java-api/)
 * [KAFKA ARCHITECTURE by Confluent](https://www.confluent.io/blog/apache-kafka-for-service-architectures/)
+* [KAFKA ARCHITECTURE Log Compaction](https://dzone.com/articles/kafka-architecture-log-compaction)
 
 ## [[⬆]](#SystemArchitectSamples) <a name='SystemArchitectSamples'>System Architect Samples</a>  
 * [Image Hosting Application](http://www.aosabook.org/en/distsys.html)
