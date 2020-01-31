@@ -116,6 +116,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [KAFKA Consumer ARCHITECTURE](https://dzone.com/articles/kafka-consumer-architecture-consumer-groups-and-su)
 * [KAFKA Detail Design](https://dzone.com/articles/kafka-detailed-design-and-ecosystem)
 * [KAFKA Mirror Maker Concept](https://blog.cloudera.com/kafka-replication-the-case-for-mirrormaker-2-0/)
+* [KAFKA Tutorial blog](http://cloudurable.com/blog/what-is-kafka/index.html)
 
 ## [[⬆]](#SystemArchitectSamples) <a name='SystemArchitectSamples'>System Architect Samples</a>  
 * [Image Hosting Application](http://www.aosabook.org/en/distsys.html)
