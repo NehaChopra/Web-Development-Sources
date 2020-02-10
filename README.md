@@ -52,6 +52,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [synchronisation java](https://medium.com/mindorks/synchronisation-101-with-java-bb11a7d651da)
 * [optimistic-vs-pessimistic-locking](https://stackoverflow.com/questions/129329/optimistic-vs-pessimistic-locking)
 * [Java Basics](https://www.baeldung.com/java-tutorial)
+* [Java 8 – Powerful Comparison with Lambdas](https://www.baeldung.com/java-8-sort-lambda)
 
 
 
