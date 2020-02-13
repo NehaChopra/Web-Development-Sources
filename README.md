@@ -53,7 +53,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [optimistic-vs-pessimistic-locking](https://stackoverflow.com/questions/129329/optimistic-vs-pessimistic-locking)
 * [Java Basics](https://www.baeldung.com/java-tutorial)
 * [Java 8 – Powerful Comparison with Lambdas](https://www.baeldung.com/java-8-sort-lambda)
-
+* [Java Pictorial Tutorials](https://www.logicbig.com/tutorials/core-java-tutorial/java-util-stream.html)
 
 
 **System DesignPatterns**
