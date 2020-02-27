@@ -55,6 +55,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Java 8 – Powerful Comparison with Lambdas](https://www.baeldung.com/java-8-sort-lambda)
 * [Java Pictorial Tutorials](https://www.logicbig.com/tutorials/core-java-tutorial/java-util-stream.html)
 * [How Fast are JAVA8 streams](https://jaxenter.com/java-performance-tutorial-how-fast-are-the-java-8-streams-118830.html)
+* [Follow-up How Fast are JAVA8 streams](https://jaxenter.com/follow-up-how-fast-are-the-java-8-streams-122522.html)
 
 **System DesignPatterns**
 * [Factory Design Pattern](https://www.youtube.com/watch?v=ub0DXaeV6hA)
