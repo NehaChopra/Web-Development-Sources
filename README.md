@@ -90,6 +90,8 @@ Sources to web development, architectural designs followed by languages, interna
 * [Design Hit Counter](http://blog.gainlo.co/index.php/2016/09/12/dropbox-interview-design-hit-counter/)
 * [Design A News Feed System](http://blog.gainlo.co/index.php/2016/03/29/design-news-feed-system-part-1-system-design-interview-questions/)
 * [Least Frequently Used (LFU) Page Replacement Algo](https://www.youtube.com/watch?v=uL0xP57negc)
+* [Least Recently Used (LRU) Page Replacement Algo](https://www.youtube.com/watch?v=u23ROrlSK_g)
+
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
