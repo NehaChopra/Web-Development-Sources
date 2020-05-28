@@ -92,6 +92,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Design A News Feed System](http://blog.gainlo.co/index.php/2016/03/29/design-news-feed-system-part-1-system-design-interview-questions/)
 * [Least Frequently Used (LFU) Page Replacement Algo](https://www.youtube.com/watch?v=uL0xP57negc)
 * [Least Recently Used (LRU) Page Replacement Algo](https://www.youtube.com/watch?v=u23ROrlSK_g)
+* [Design Username is already taken](https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation/)
 
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
