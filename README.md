@@ -57,6 +57,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [How Fast are JAVA8 streams](https://jaxenter.com/java-performance-tutorial-how-fast-are-the-java-8-streams-118830.html)
 * [Follow-up How Fast are JAVA8 streams](https://jaxenter.com/follow-up-how-fast-are-the-java-8-streams-122522.html)
 * [Bloom filters](https://www.youtube.com/watch?v=Bay3X9PAX5k)
+* [Java Equals Hashcode Contracts](https://www.baeldung.com/java-equals-hashcode-contracts)
 
 **System DesignPatterns**
 * [Factory Design Pattern](https://www.youtube.com/watch?v=ub0DXaeV6hA)
