@@ -97,6 +97,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Least Recently Used (LRU) Page Replacement Algo](https://www.youtube.com/watch?v=u23ROrlSK_g)
 * [Design Username is already taken](https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation/)
 * [Chatting system like Whatsapp](https://www.youtube.com/watch?v=G32ThJakeHk)
+* [Circuit breaker](https://www.youtube.com/watch?v=ADHcBxEXvFA)
 
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
