@@ -99,7 +99,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Chatting system like Whatsapp](https://www.youtube.com/watch?v=G32ThJakeHk)
 * [Circuit breaker](https://www.youtube.com/watch?v=ADHcBxEXvFA)
 * [Video Conference System Like Zoom](https://www.youtube.com/watch?v=G32ThJakeHk)
-
+* [UDP and TCP: Comparison of Transport Protocols](https://www.youtube.com/watch?v=Vdc8TCESIg8)
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
