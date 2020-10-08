@@ -175,6 +175,8 @@ Sources to web development, architectural designs followed by languages, interna
 * [Customer Exception in Filters](https://stackoverflow.com/questions/34595605/how-to-manage-exceptions-thrown-in-filters-in-spring)
 * [Authentication Provider](https://www.baeldung.com/spring-security-authentication-provider)
 * [spring-security-authentication](https://dzone.com/articles/spring-security-authentication)
+* [Lombok](https://www.baeldung.com/tag/lombok/)
+
 
 
 ### [[⬆]](#Aerospike) <a name='Aerospike'>Aerospike</a>
