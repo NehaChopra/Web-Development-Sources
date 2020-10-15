@@ -177,7 +177,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Authentication Provider](https://www.baeldung.com/spring-security-authentication-provider)
 * [spring-security-authentication](https://dzone.com/articles/spring-security-authentication)
 * [Lombok](https://www.baeldung.com/tag/lombok/)
-* [Jooq With Spring]https://www.baeldung.com/jooq-with-spring
+* [Jooq With Spring](https://www.baeldung.com/jooq-with-spring)
 
 
 
