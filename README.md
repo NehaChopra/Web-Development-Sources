@@ -178,6 +178,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [spring-security-authentication](https://dzone.com/articles/spring-security-authentication)
 * [Lombok](https://www.baeldung.com/tag/lombok/)
 * [Jooq With Spring](https://www.baeldung.com/jooq-with-spring)
+* [Test instance - Spring Boot Test](https://www.baeldung.com/junit-testinstance-annotation)
 
 
 
