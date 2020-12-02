@@ -117,6 +117,7 @@ Sources to web development, architectural designs followed by languages, interna
 ## [[⬆]](#GeneralWebTopics) <a name='GeneralWebTopics'>General Web Topics</a>  
 * [What happens when you type a URL in a browser](http://edusagar.com/articles/view/70/What-happens-when-you-type-a-URL-in-browser)
 * [Babel](https://en.wikipedia.org/wiki/Source-to-source_compiler)
+* [App server, Web server: What's the difference?](https://www.infoworld.com/article/2077354/app-server-web-server-what-s-the-difference.html#:~:text=While%20a%20Web%20server%20mainly,function%20in%20the%20procedural%20world).)
 
 ## [[⬆]](#KAFKA) <a name='KAFKA'>KAFKA</a>  
 * [CLOUD KARAFKA](https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html)
