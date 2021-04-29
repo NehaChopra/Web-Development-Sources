@@ -12,6 +12,8 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [System Architect Samples](#SystemArchitectSamples)
 - [ ] [SPRING](#SPRING)
 - [ ] [AEROSPIKE](#Aerospike)
+- [ ] [Uber Engineering](#UberEngineering)
+- [ ] [Adyen Engineering](#AdyenEngineering)
 - [ ] [Github Engineering](#GithubEngineering)
 
 
@@ -188,11 +190,11 @@ Sources to web development, architectural designs followed by languages, interna
 * [Aerospike Serialiazable error](https://stackoverflow.com/questions/26568205/resolve-a-java-util-arraylistsublist-notserializable-exception)
 
 
-### [[⬆]](#UberEngineering) <a name='UberEngineering'>Github Engineering</a>
+### [[⬆]](#UberEngineering) <a name='UberEngineering'>Uber Engineering</a>
 * [Uber Engineering](https://eng.uber.com/)
 
 
-### [[⬆]](#AdyenEngineering) <a name='AdyenEngineering'>Github Engineering</a>
+### [[⬆]](#AdyenEngineering) <a name='AdyenEngineering'>Adyen Engineering</a>
 * [Adyen Engineering](https://medium.com/adyen)
 
 
