@@ -188,6 +188,14 @@ Sources to web development, architectural designs followed by languages, interna
 * [Aerospike Serialiazable error](https://stackoverflow.com/questions/26568205/resolve-a-java-util-arraylistsublist-notserializable-exception)
 
 
+### [[⬆]](#UberEngineering) <a name='UberEngineering'>Github Engineering</a>
+* [Uber Engineering](https://eng.uber.com/)
+
+
+### [[⬆]](#AdyenEngineering) <a name='AdyenEngineering'>Github Engineering</a>
+* [Adyen Engineering](https://medium.com/adyen)
+
+
 ### [[⬆]](#GithubEngineering) <a name='GithubEngineering'>Github Engineering</a>
 * [Github Engineering](https://github.blog/category/engineering/)
 
