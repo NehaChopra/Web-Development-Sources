@@ -106,9 +106,11 @@ Sources to web development, architectural designs followed by languages, interna
 * [Circuit Breaker/Throttle Pattern](https://www.linkedin.com/pulse/circuit-breakerthrottle-pattern-rachit-lohani/)
 * [Payment Gateway - PayU](https://www.youtube.com/watch?v=yt3My3vUBXo)
 * [Scalability concepts: the reliability queue](https://avikdas.com/2020/05/11/scalability-concepts-the-reliability-queue.html)
-* [Scalability concepts: the reliability queue](https://avikdas.com/2020/05/11/scalability-concepts-the-reliability-queue.html)
+* [Saga Pattern - 1](https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part/)
+* [Saga Pattern - 2](https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part-2/)
 * [Web Crawler](https://www.youtube.com/watch?v=BKZxZwUgL3Y&ab_channel=TechDummiesNarendraL)
-* [Web Crawler](https://www.youtube.com/watch?v=BKZxZwUgL3Y&ab_channel=TechDummiesNarendraL)
+* [Distributed Computing](https://betterprogramming.pub/a-thorough-introduction-to-distributed-systems-3b91562c9b3c)
+* [Distributed Design Patterns](https://www.educative.io/blog/distributed-system-design-patterns)
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
