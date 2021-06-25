@@ -25,6 +25,9 @@ Sources to web development, architectural designs followed by languages, interna
 * [Yarn / npm](https://www.sitepoint.com/yarn-vs-npm/)
 * [React Babel and Webpack](https://medium.com/@siddharthac6/getting-started-with-react-js-using-webpack-and-babel-66549f8fbcb8)
 * [Cookies](https://www.kaspersky.com/resource-center/definitions/cookies)
+* [HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
+* [CSS Media Queries](http://cssmediaqueries.com/)
+* [HTTP1 VS HTTP2](https://www.digitalocean.com/community/tutorials/http-1-1-vs-http-2-what-s-the-difference)
              
              
 ### [[⬆]](#JAVA) <a name='JAVA'>JAVA</a>       
@@ -111,6 +114,11 @@ Sources to web development, architectural designs followed by languages, interna
 * [Web Crawler](https://www.youtube.com/watch?v=BKZxZwUgL3Y&ab_channel=TechDummiesNarendraL)
 * [Distributed Computing](https://betterprogramming.pub/a-thorough-introduction-to-distributed-systems-3b91562c9b3c)
 * [Distributed Design Patterns](https://www.educative.io/blog/distributed-system-design-patterns)
+* [Hashing Passwords](https://www.simongilbert.net/hashing-passwords-md5-bcrypt-pbkdf2-csharp-dotnetcore/)
+* [How To store Passwords](https://itnext.io/how-not-to-store-passwords-4955569e6e84)
+* [Distributed Systems](https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/)
+* [Distributed Systems](https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/)
+* [Session Cookies vs JWT Tokens](https://hackernoon.com/using-session-cookies-vs-jwt-for-authentication-sd2v3vci)
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
