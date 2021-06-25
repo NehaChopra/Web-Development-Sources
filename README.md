@@ -24,6 +24,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [JS Closure / Lexical Environment](http://javascript.info/closure)
 * [Yarn / npm](https://www.sitepoint.com/yarn-vs-npm/)
 * [React Babel and Webpack](https://medium.com/@siddharthac6/getting-started-with-react-js-using-webpack-and-babel-66549f8fbcb8)
+* [Cookies](https://www.kaspersky.com/resource-center/definitions/cookies)
              
              
 ### [[⬆]](#JAVA) <a name='JAVA'>JAVA</a>       
@@ -103,6 +104,11 @@ Sources to web development, architectural designs followed by languages, interna
 * [Video Conference System Like Zoom](https://www.youtube.com/watch?v=G32ThJakeHk)
 * [UDP and TCP: Comparison of Transport Protocols](https://www.youtube.com/watch?v=Vdc8TCESIg8)
 * [Circuit Breaker/Throttle Pattern](https://www.linkedin.com/pulse/circuit-breakerthrottle-pattern-rachit-lohani/)
+* [Payment Gateway - PayU](https://www.youtube.com/watch?v=yt3My3vUBXo)
+* [Scalability concepts: the reliability queue](https://avikdas.com/2020/05/11/scalability-concepts-the-reliability-queue.html)
+* [Scalability concepts: the reliability queue](https://avikdas.com/2020/05/11/scalability-concepts-the-reliability-queue.html)
+* [Web Crawler](https://www.youtube.com/watch?v=BKZxZwUgL3Y&ab_channel=TechDummiesNarendraL)
+* [Web Crawler](https://www.youtube.com/watch?v=BKZxZwUgL3Y&ab_channel=TechDummiesNarendraL)
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
