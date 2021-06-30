@@ -15,6 +15,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [Uber Engineering](#UberEngineering)
 - [ ] [Adyen Engineering](#AdyenEngineering)
 - [ ] [Github Engineering](#GithubEngineering)
+- [ ] [Gradle](#Gradle)
 
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
@@ -216,4 +217,7 @@ Sources to web development, architectural designs followed by languages, interna
 
 ### [[⬆]](#GithubEngineering) <a name='GithubEngineering'>Github Engineering</a>
 * [Github Engineering](https://github.blog/category/engineering/)
+
+### [[⬆]](#Gradle) <a name='Gradle'>Gradle</a>
+* [Composite builds](https://www.youtube.com/watch?v=l96SMQX3zkU)
 
