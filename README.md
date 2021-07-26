@@ -221,6 +221,7 @@ Sources to web development, architectural designs followed by languages, interna
 
 ### [[⬆]](#aws) <a name='AWS'>AWS</a>
 * [Provisioned Concurrency for Lambda Functions](https://aws.amazon.com/blogs/aws/new-provisioned-concurrency-for-lambda-functions/)
+* [How to Avoid AWS Lambda Cold Starts?](https://www.simform.com/lambda-cold-starts/)
 
 ### [[⬆]](#Optimizely) <a name='Optimizely'>Optimizely</a>
 * [A/B Testing - Optimizely](https://www.optimizely.com/optimization-glossary/ab-testing/)
