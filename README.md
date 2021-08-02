@@ -18,6 +18,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [Gradle](#Gradle)
 - [ ] [AWS](#aws)
 - [ ] [A/B Testing framework - Optimizely](#Optimizely)
+- [ ] [Figma - Desgin](#Figma) 
 
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
@@ -226,4 +227,8 @@ Sources to web development, architectural designs followed by languages, interna
 
 ### [[⬆]](#Optimizely) <a name='Optimizely'>Optimizely</a>
 * [A/B Testing - Optimizely](https://www.optimizely.com/optimization-glossary/ab-testing/)
+
+### [[⬆]](#Figma) <a name='Figma'>Figma</a>
+* [Figma - Design](https://www.figma.com/design/)
+
 
