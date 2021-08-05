@@ -224,6 +224,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Provisioned Concurrency for Lambda Functions](https://aws.amazon.com/blogs/aws/new-provisioned-concurrency-for-lambda-functions/)
 * [How to Avoid AWS Lambda Cold Starts? - startup latency](https://www.simform.com/lambda-cold-starts/)
 * [Serverless Architecture – What It Is? Benefits, Limitations & Use cases - Function as service](https://www.simform.com/serverless-architecture-guide/)
+* [Building Real Time Applications using WebSocket APIs Supported by Amazon API Gateway](https://www.youtube.com/watch?v=3SCdzzD0PdQ)
 
 ### [[⬆]](#Optimizely) <a name='Optimizely'>Optimizely</a>
 * [A/B Testing - Optimizely](https://www.optimizely.com/optimization-glossary/ab-testing/)
