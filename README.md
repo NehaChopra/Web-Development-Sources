@@ -124,6 +124,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Distributed Systems](https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/)
 * [Session Cookies vs JWT Tokens](https://hackernoon.com/using-session-cookies-vs-jwt-for-authentication-sd2v3vci)
 * [Simhash and solving the hamming distance problem: Near Duplicate document](http://benwhitmore.altervista.org/simhash-and-solving-the-hamming-distance-problem-explained/)
+* [Twitter System Design](https://www.youtube.com/watch?v=EkudBdvbDhs&ab_channel=codeKarle)
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
