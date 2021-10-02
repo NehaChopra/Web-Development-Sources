@@ -19,6 +19,8 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [AWS](#aws)
 - [ ] [A/B Testing framework - Optimizely](#Optimizely)
 - [ ] [Figma - Desgin](#Figma) 
+- [ ] [UML](#UML) 
+- [ ] [DataScience](#DataScience) 
 
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
@@ -233,5 +235,11 @@ Sources to web development, architectural designs followed by languages, interna
 
 ### [[⬆]](#Figma) <a name='Figma'>Figma</a>
 * [Figma - Design](https://www.figma.com/design/)
+
+### [[⬆]](#UML) <a name='UML'>UML</a>
+* [UML Diagrams](https://www.tutorialspoint.com/uml/index.htm)
+
+
+### [[⬆]](#DataScience) <a name='DataScience'>DataScience</a>
 
 
