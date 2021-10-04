@@ -128,6 +128,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Simhash and solving the hamming distance problem: Near Duplicate document](http://benwhitmore.altervista.org/simhash-and-solving-the-hamming-distance-problem-explained/)
 * [Twitter System Design](https://www.youtube.com/watch?v=EkudBdvbDhs&ab_channel=codeKarle)
 * [Whatsapp/Chat application System Design](https://www.youtube.com/watch?v=RjQjbJ2UJDg)
+* [Cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 
 ## [[⬆]](#DATABASE) <a name='DATABASE'>DATABASE</a>  
