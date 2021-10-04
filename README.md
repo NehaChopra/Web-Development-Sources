@@ -244,5 +244,6 @@ Sources to web development, architectural designs followed by languages, interna
 
 
 ### [[⬆]](#DataScience) <a name='DataScience'>DataScience</a>
+* [DS right way](https://www.jovian.ai/)
 
 
