@@ -245,5 +245,8 @@ Sources to web development, architectural designs followed by languages, interna
 
 ### [[⬆]](#DataScience) <a name='DataScience'>DataScience</a>
 * [DS right way](https://www.jovian.ai/)
+* [Python Tutorial](https://realpython.com/start-here/)
+* [Python Basics](https://www.tutorialspoint.com/python/python_files_io.htm)
+* [UML Basics](https://www.tutorialspoint.com/uml/index.htm)
 
 
