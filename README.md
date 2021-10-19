@@ -232,6 +232,8 @@ Sources to web development, architectural designs followed by languages, interna
 * [How to Avoid AWS Lambda Cold Starts? - startup latency](https://www.simform.com/lambda-cold-starts/)
 * [Serverless Architecture – What It Is? Benefits, Limitations & Use cases - Function as service](https://www.simform.com/serverless-architecture-guide/)
 * [Building Real Time Applications using WebSocket APIs Supported by Amazon API Gateway](https://www.youtube.com/watch?v=3SCdzzD0PdQ)
+* [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&ab_channel=freeCodeCamp.org)
+* [AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=Ia-UEYYR44s&ab_channel=freeCodeCamp.org)
 
 ### [[⬆]](#Optimizely) <a name='Optimizely'>Optimizely</a>
 * [A/B Testing - Optimizely](https://www.optimizely.com/optimization-glossary/ab-testing/)
