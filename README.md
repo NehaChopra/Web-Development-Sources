@@ -250,5 +250,8 @@ Sources to web development, architectural designs followed by languages, interna
 * [Python Tutorial](https://realpython.com/start-here/)
 * [Python Basics](https://www.tutorialspoint.com/python/python_files_io.htm)
 * [UML Basics](https://www.tutorialspoint.com/uml/index.htm)
+* [Learn Python Programming,By Example](https://realpython.com/start-here/)
+* [Python tutorial documentation](https://docs.python.org/3/tutorial/index.html)
+* 
 
 
