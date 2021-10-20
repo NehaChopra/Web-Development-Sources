@@ -256,5 +256,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Learn Python Programming](https://www.programiz.com/python-programming)
 * [Think Python How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/thinkpython2.pdf)
 * [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/)
+* [A byte of Python](https://python.swaroopch.com/)
+* 
 
 
