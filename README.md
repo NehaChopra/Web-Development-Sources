@@ -252,6 +252,8 @@ Sources to web development, architectural designs followed by languages, interna
 * [UML Basics](https://www.tutorialspoint.com/uml/index.htm)
 * [Learn Python Programming,By Example](https://realpython.com/start-here/)
 * [Python tutorial documentation](https://docs.python.org/3/tutorial/index.html)
-* 
+* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+* [Learn Python Programming](https://www.programiz.com/python-programming)
+* [Think Python How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/thinkpython2.pdf)
 
 
