@@ -259,4 +259,5 @@ Sources to web development, architectural designs followed by languages, interna
 * [A byte of Python](https://python.swaroopch.com/)
 * 
 
+https://blog.cloudflare.com/october-2021-facebook-outage/
 
