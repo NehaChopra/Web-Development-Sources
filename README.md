@@ -257,7 +257,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Think Python How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/thinkpython2.pdf)
 * [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/)
 * [A byte of Python](https://python.swaroopch.com/)
-* 
+* [NumPy](https://numpy.org/doc/stable/user/quickstart.html)
 
 https://blog.cloudflare.com/october-2021-facebook-outage/
 
