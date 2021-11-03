@@ -260,6 +260,11 @@ Sources to web development, architectural designs followed by languages, interna
 * [NumPy](https://numpy.org/doc/stable/user/quickstart.html)
 * [Python Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 * [NumPy Cheat Sheet](https://cheatography.com/mdesai96/cheat-sheets/numpy-cheat-sheet/)
+* [Why NumPy arrays are so fast](https://stackoverflow.com/questions/8385602/why-are-numpy-arrays-so-fast)
+* [What are the advantages of NumPy over regular Python lists?](https://stackoverflow.com/questions/993984/what-are-the-advantages-of-numpy-over-regular-python-lists)
+* 
+
+
 
 https://blog.cloudflare.com/october-2021-facebook-outage/
 
