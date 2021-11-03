@@ -258,6 +258,8 @@ Sources to web development, architectural designs followed by languages, interna
 * [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/)
 * [A byte of Python](https://python.swaroopch.com/)
 * [NumPy](https://numpy.org/doc/stable/user/quickstart.html)
+* [Python Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+* [NumPy Cheat Sheet](https://cheatography.com/mdesai96/cheat-sheets/numpy-cheat-sheet/)
 
 https://blog.cloudflare.com/october-2021-facebook-outage/
 
