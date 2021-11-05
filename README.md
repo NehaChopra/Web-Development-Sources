@@ -263,7 +263,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Why NumPy arrays are so fast](https://stackoverflow.com/questions/8385602/why-are-numpy-arrays-so-fast)
 * [What are the advantages of NumPy over regular Python lists?](https://stackoverflow.com/questions/993984/what-are-the-advantages-of-numpy-over-regular-python-lists)
 * [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
-
+* [Matplotlib](https://matplotlib.org/3.1.1/contents.html)
 
 
 https://blog.cloudflare.com/october-2021-facebook-outage/
