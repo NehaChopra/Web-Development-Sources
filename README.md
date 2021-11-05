@@ -262,7 +262,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [NumPy Cheat Sheet](https://cheatography.com/mdesai96/cheat-sheets/numpy-cheat-sheet/)
 * [Why NumPy arrays are so fast](https://stackoverflow.com/questions/8385602/why-are-numpy-arrays-so-fast)
 * [What are the advantages of NumPy over regular Python lists?](https://stackoverflow.com/questions/993984/what-are-the-advantages-of-numpy-over-regular-python-lists)
-* 
+* [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 
 
 
