@@ -264,6 +264,14 @@ Sources to web development, architectural designs followed by languages, interna
 * [What are the advantages of NumPy over regular Python lists?](https://stackoverflow.com/questions/993984/what-are-the-advantages-of-numpy-over-regular-python-lists)
 * [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 * [Matplotlib](https://matplotlib.org/stable/contents.html)
+* [Plotly](https://plotly.com/python/getting-started/)
+* [Seaborn](https://seaborn.pydata.org/index.html)
+* [Type of outliers](https://www.anodot.com/blog/quick-guide-different-types-outliers/)
+* [Software Eco](https://gramener.com/software/)
+* [Market Reaction to budget](https://gramener.com/budget/?Year=2007)
+* [ODI](http://www.howstat.com/cricket/Statistics/Matches/MatchScorecard_ODI.asp?MatchCode=3092)
+* [ODI criket](https://gramener.com/cricket/)
+* 
 
 
 https://blog.cloudflare.com/october-2021-facebook-outage/
