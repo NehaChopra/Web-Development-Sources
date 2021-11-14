@@ -21,6 +21,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [Figma - Desgin](#Figma) 
 - [ ] [UML](#UML) 
 - [ ] [DataScience](#DataScience) 
+- [ ] [DataSets](#DataSets) 
 
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
@@ -275,4 +276,10 @@ Sources to web development, architectural designs followed by languages, interna
 
 
 https://blog.cloudflare.com/october-2021-facebook-outage/
+
+
+### [[⬆]](#DataSets) <a name='DataSets'>DataSets</a>
+* [UCI](https://archive.ics.uci.edu/ml/index.php)
+* [Public datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [Datameet](https://github.com/datameet)
 
