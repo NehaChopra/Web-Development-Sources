@@ -235,6 +235,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Building Real Time Applications using WebSocket APIs Supported by Amazon API Gateway](https://www.youtube.com/watch?v=3SCdzzD0PdQ)
 * [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&ab_channel=freeCodeCamp.org)
 * [AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=Ia-UEYYR44s&ab_channel=freeCodeCamp.org)
+* [AWS free courses](https://www.amazon.com/s?rh=p_27%3AAWS+Training+%26+Certification)
 
 ### [[⬆]](#Optimizely) <a name='Optimizely'>Optimizely</a>
 * [A/B Testing - Optimizely](https://www.optimizely.com/optimization-glossary/ab-testing/)
@@ -272,7 +273,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Market Reaction to budget](https://gramener.com/budget/?Year=2007)
 * [ODI](http://www.howstat.com/cricket/Statistics/Matches/MatchScorecard_ODI.asp?MatchCode=3092)
 * [ODI criket](https://gramener.com/cricket/)
-* 
+* [Web Scrapping](https://www.3idatascraping.com/data-scraping-use-cases.php)
 
 
 https://blog.cloudflare.com/october-2021-facebook-outage/
