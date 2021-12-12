@@ -274,6 +274,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [ODI](http://www.howstat.com/cricket/Statistics/Matches/MatchScorecard_ODI.asp?MatchCode=3092)
 * [ODI criket](https://gramener.com/cricket/)
 * [Web Scrapping](https://www.3idatascraping.com/data-scraping-use-cases.php)
+* [Representative Sample vs. Random Sample: What's the Difference?](https://www.investopedia.com/ask/answers/042915/whats-difference-between-representative-sample-and-random-sample.asp)
 
 
 https://blog.cloudflare.com/october-2021-facebook-outage/
