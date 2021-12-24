@@ -277,6 +277,8 @@ Sources to web development, architectural designs followed by languages, interna
 * [Web Scrapping](https://www.3idatascraping.com/data-scraping-use-cases.php)
 * [Representative Sample vs. Random Sample: What's the Difference?](https://www.investopedia.com/ask/answers/042915/whats-difference-between-representative-sample-and-random-sample.asp)
 * [Data Modelling](https://www.folkstalk.com/2010/01/data-warehouse-dimensional-modelling.html)
+* [Data Warehousing Concepts](https://docs.oracle.com/cd/B10501_01/server.920/a96520/concept.htm)
+* [OLTP-vs-OLAP](https://www.datawarehouse4u.info/OLTP-vs-OLAP.html)
 
 
 https://blog.cloudflare.com/october-2021-facebook-outage/
