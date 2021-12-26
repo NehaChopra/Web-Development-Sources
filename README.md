@@ -279,6 +279,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Data Modelling](https://www.folkstalk.com/2010/01/data-warehouse-dimensional-modelling.html)
 * [Data Warehousing Concepts](https://docs.oracle.com/cd/B10501_01/server.920/a96520/concept.htm)
 * [OLTP-vs-OLAP](https://www.datawarehouse4u.info/OLTP-vs-OLAP.html)
+* [Home Credit : Complete EDA + Feature Importance](https://www.kaggle.com/codename007/home-credit-complete-eda-feature-importance)
 
 
 https://blog.cloudflare.com/october-2021-facebook-outage/
