@@ -167,6 +167,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [KAFKA Talk by Jay Kreps](https://www.youtube.com/watch?v=4IqDrNVhtqE)
 * [KAFKA Talk by Airbnb](https://www.youtube.com/watch?v=tJ1uIHQtoNc)
 * [Event Streaming by KAFKA](https://www.youtube.com/watch?v=el-SqcZLZlI)
+* [Event Streaming patterns](https://developer.confluent.io/patterns)
 
 ## [[⬆]](#SystemArchitectSamples) <a name='SystemArchitectSamples'>System Architect Samples</a>  
 * [Image Hosting Application](http://www.aosabook.org/en/distsys.html)
