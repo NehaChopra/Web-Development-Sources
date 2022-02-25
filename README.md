@@ -294,5 +294,5 @@ https://blog.cloudflare.com/october-2021-facebook-outage/
 * [Public datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [Datameet](https://github.com/datameet)
 
-]### [[⬆]](#GoodReads) <a name='GoodReads'>DataSets</a>
+### [[⬆]](#GoodReads) <a name='GoodReads'>DataSets</a>
 * [No such thing as clean code](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code)
