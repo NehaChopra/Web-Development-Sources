@@ -241,6 +241,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&ab_channel=freeCodeCamp.org)
 * [AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=Ia-UEYYR44s&ab_channel=freeCodeCamp.org)
 * [AWS free courses](https://www.amazon.com/s?rh=p_27%3AAWS+Training+%26+Certification)
+* [Lambda](https://blog.bytebytego.com/p/how-does-aws-lambda-work-behind-the?s=r)
 
 ### [[⬆]](#Optimizely) <a name='Optimizely'>Optimizely</a>
 * [A/B Testing - Optimizely](https://www.optimizely.com/optimization-glossary/ab-testing/)
