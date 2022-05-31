@@ -21,9 +21,9 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [Figma - Desgin](#Figma) 
 - [ ] [UML](#UML) 
 - [ ] [DataScience](#DataScience) 
-- [ ] [DataSets](#DataSets) 
-- [ ] [Good Reads](#Good Reads)
+- [ ] [DataSets](#DataSets)
 - [ ] [Elixir](#Elixir)
+- [ ] [Good Reads](#Good Reads)
 
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
