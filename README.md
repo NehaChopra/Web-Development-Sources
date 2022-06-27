@@ -313,4 +313,5 @@ https://blog.cloudflare.com/october-2021-facebook-outage/
 * [A framework for managing and maintaining multi-language pre-commit hooks](https://pre-commit.com/)
 * [Getting Started with Pre Commit Hooks](https://towardsdatascience.com/getting-started-with-python-pre-commit-hooks-28be2b2d09d5)
 * [Pre Commit Framework](https://towardsdatascience.com/how-to-add-git-hooks-for-your-python-projects-using-the-pre-commit-framework-773acc3b28a7)
+* [Pre Commit Hooks](https://towardsdatascience.com/pre-commit-hooks-you-must-know-ff247f5feb7e)
 
