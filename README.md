@@ -24,6 +24,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [DataSets](#DataSets)
 - [ ] [Elixir](#Elixir)
 - [ ] [Good Reads](#Good Reads)
+- [ ] [Git Hooks](#Git Hooks)
 
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
@@ -306,4 +307,6 @@ https://blog.cloudflare.com/october-2021-facebook-outage/
 ### [[⬆]](#Elixir) <a name='Elixir'>Elixir</a>
 * [Elixir](https://elixir-lang.org/getting-started/basic-types.html)
 
+### [[⬆]](#Git Hooks) <a name='Git Hooks'>Git Hooks</a>
+* [A framework for managing and maintaining multi-language pre-commit hooks](https://pre-commit.com/)
 
