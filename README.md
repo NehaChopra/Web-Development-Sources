@@ -300,12 +300,14 @@ https://blog.cloudflare.com/october-2021-facebook-outage/
 * [Clustering](https://datafloq.com/read/7-innovative-uses-of-clustering-algorithms/)
 * [Clustering Professional Basketball Players by Performance](https://escholarship.org/uc/item/917739k8)
 
+
 ### [[⬆]](#GoodReads) <a name='GoodReads'>GoodReads</a>
 * [No such thing as clean code](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code)
 
 
 ### [[⬆]](#Elixir) <a name='Elixir'>Elixir</a>
 * [Elixir](https://elixir-lang.org/getting-started/basic-types.html)
+
 
 ### [[⬆]](#Git Hooks) <a name='Git Hooks'>Git Hooks</a>
 * [A framework for managing and maintaining multi-language pre-commit hooks](https://pre-commit.com/)
