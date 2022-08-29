@@ -25,6 +25,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [Elixir](#Elixir)
 - [ ] [Good Reads](#Good Reads)
 - [ ] [Git Hooks](#Git Hooks)
+- [ ] [Terraform](#Terraform)
 
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
@@ -315,3 +316,6 @@ https://blog.cloudflare.com/october-2021-facebook-outage/
 * [Pre Commit Framework](https://towardsdatascience.com/how-to-add-git-hooks-for-your-python-projects-using-the-pre-commit-framework-773acc3b28a7)
 * [Pre Commit Hooks](https://towardsdatascience.com/pre-commit-hooks-you-must-know-ff247f5feb7e)
 
+
+### [[⬆]](#Terraform) <a name='Terraform'>Terraform</a>
+* [Terraform tips & tricks: loops, if-statements, and gotchas](https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9)
