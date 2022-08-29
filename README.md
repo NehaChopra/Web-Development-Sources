@@ -319,3 +319,4 @@ https://blog.cloudflare.com/october-2021-facebook-outage/
 
 ### [[⬆]](#Terraform) <a name='Terraform'>Terraform</a>
 * [Terraform tips & tricks: loops, if-statements, and gotchas](https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9)
+* [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.b6sun4nkn)
