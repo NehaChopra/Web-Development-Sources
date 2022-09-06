@@ -26,6 +26,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [Good Reads](#Good Reads)
 - [ ] [Git Hooks](#Git Hooks)
 - [ ] [Terraform](#Terraform)
+- [ ] [GCP](#GCP)
 
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
@@ -320,3 +321,8 @@ https://blog.cloudflare.com/october-2021-facebook-outage/
 ### [[⬆]](#Terraform) <a name='Terraform'>Terraform</a>
 * [Terraform tips & tricks: loops, if-statements, and gotchas](https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9)
 * [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.b6sun4nkn)
+
+### [[⬆]](#GCP) <a name='GCP'>GCP</a>
+* [Google Cloud Platform Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=G5w1rsFe-qA)
+* [Google Cloud Platform Full Course | GCP Tutorial | Google Cloud Training | Edureka](https://www.youtube.com/watch?v=IUU6OR8yHCc)
+
