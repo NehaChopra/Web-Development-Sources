@@ -79,6 +79,7 @@ Sources to web development, architectural designs followed by languages, interna
 * [Concurrent HashMap Internal working](https://www.youtube.com/watch?v=6Zzm4esAi7A)
 * [Bulkhead Pattern - Fault Tolerant Microservices](https://www.youtube.com/watch?v=R2FT5edyKOg)
 * [google-protocol-buffer](https://www.baeldung.com/google-protocol-buffer)
+* [spring-rest-api-with-protocol-buffers]((https://www.baeldung.com/spring-rest-api-with-protocol-buffers))
 
 
 
