@@ -78,6 +78,8 @@ Sources to web development, architectural designs followed by languages, interna
 * [Java Equals Hashcode Contracts](https://www.baeldung.com/java-equals-hashcode-contracts)
 * [Concurrent HashMap Internal working](https://www.youtube.com/watch?v=6Zzm4esAi7A)
 * [Bulkhead Pattern - Fault Tolerant Microservices](https://www.youtube.com/watch?v=R2FT5edyKOg)
+* [google-protocol-buffer](https://www.baeldung.com/google-protocol-buffer)
+
 
 
 **System DesignPatterns**
