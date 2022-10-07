@@ -223,6 +223,12 @@ Sources to web development, architectural designs followed by languages, interna
 * [Lombok](https://www.baeldung.com/tag/lombok/)
 * [Jooq With Spring](https://www.baeldung.com/jooq-with-spring)
 * [Test instance - Spring Boot Test](https://www.baeldung.com/junit-testinstance-annotation)
+* [Spring Boot Kotlin](https://spring.io/guides/tutorials/spring-boot-kotlin/)
+* [Spring Webflux](https://www.baeldung.com/spring-webflux)
+
+
+
+
 
 
 ### [[⬆]](#Aerospike) <a name='Aerospike'>Aerospike</a>
