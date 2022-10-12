@@ -27,6 +27,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [Git Hooks](#GitHooks)
 - [ ] [Terraform](#Terraform)
 - [ ] [GCP](#GCP)
+- [ ] [Kotlin](#Kotlin)
 
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
@@ -334,4 +335,9 @@ https://blog.cloudflare.com/october-2021-facebook-outage/
 ### [[⬆]](#GCP) <a name='GCP'>GCP</a>
 * [Google Cloud Platform Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=G5w1rsFe-qA)
 * [Google Cloud Platform Full Course | GCP Tutorial | Google Cloud Training | Edureka](https://www.youtube.com/watch?v=IUU6OR8yHCc)
+
+
+### [[⬆]](#Kotlin) <a name='Kotlin'>Kotlin</a>
+* [companion-object](https://www.baeldung.com/kotlin/companion-object)
+
 
