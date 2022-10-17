@@ -28,7 +28,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [Terraform](#Terraform)
 - [ ] [GCP](#GCP)
 - [ ] [Kotlin](#Kotlin)
-- [ ] [Reactive Programming](#Reactive Programming)
+- [ ] [ReactiveProgramming](#ReactiveProgramming)
 
 
 
@@ -343,6 +343,6 @@ https://blog.cloudflare.com/october-2021-facebook-outage/
 * [companion-object](https://www.baeldung.com/kotlin/companion-object)
 
 
-### [[⬆]](#Reactive Programming) <a name='Reactive Programming'>Reactive Programming</a>
+### [[⬆]](#ReactiveProgramming) <a name='Reactive Programming'>Reactive Programming</a>
 * [reactive-programming-reactor-core-part1](https://medium.com/swlh/reactive-programming-reactor-core-part1-1053fe3ae1a0)
 
