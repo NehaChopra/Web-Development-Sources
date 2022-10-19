@@ -341,6 +341,7 @@ https://blog.cloudflare.com/october-2021-facebook-outage/
 
 ### [[⬆]](#Kotlin) <a name='Kotlin'>Kotlin</a>
 * [companion-object](https://www.baeldung.com/kotlin/companion-object)
+* [map-vs-flatmap](https://www.baeldung.com/kotlin/map-vs-flatmap)
 
 
 ### [[⬆]](#ReactiveProgramming) <a name='Reactive Programming'>Reactive Programming</a>
