@@ -351,5 +351,5 @@ https://blog.cloudflare.com/october-2021-facebook-outage/
 
 
 ### [[⬆]](#APIGEE) <a name='APIGEE'>APIGEE</a>
-* [APIGEE — An API Management Service on Google Cloud]([https://medium.com/swlh/reactive-programming-reactor-core-part1-1053fe3ae1a0](https://medium.com/google-cloud/apigee-an-api-management-service-on-google-cloud-890c0a0e7447)
+* [APIGEE — An API Management Service on Google Cloud](https://medium.com/google-cloud/apigee-an-api-management-service-on-google-cloud-890c0a0e7447)
 
