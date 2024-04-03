@@ -31,6 +31,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [ReactiveProgramming](#ReactiveProgramming)
 - [ ] [APIGEE](#APIGEE)
 - [ ] [Event-Driven Architecture(EDA)](#Event-DrivenArchitecture(EDA))
+- [ ] [Grafana](#Grafana)
 
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
@@ -353,6 +354,11 @@ https://blog.cloudflare.com/october-2021-facebook-outage/
 ### [[⬆]](#APIGEE) <a name='APIGEE'>APIGEE</a>
 * [APIGEE — An API Management Service on Google Cloud](https://medium.com/google-cloud/apigee-an-api-management-service-on-google-cloud-890c0a0e7447)
 
-### [[⬆]](#Event-Driven Architecture (EDA)) <a name='Event-Driven Architecture (EDA)'>Event-Driven Architecture (EDA)</a>
+### [[⬆]](#Event-Driven Architecture(EDA)) <a name='Event-Driven Architecture(EDA)'>Event-Driven Architecture (EDA)</a>
 * [architecture-style-event-driven-architecture-eda](https://lab.scub.net/architecture-style-event-driven-architecture-eda-7061638c159d)
+
+
+### [[⬆]](#Grafana) <a name='Grafana'>Grafana</a>
+* [Grafana Explained](https://www.youtube.com/watch?v=lILY8eSspEo)
+
 
