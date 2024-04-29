@@ -32,6 +32,7 @@ Sources to web development, architectural designs followed by languages, interna
 - [ ] [APIGEE](#APIGEE)
 - [ ] [Event-Driven Architecture(EDA)](#Event-DrivenArchitecture(EDA))
 - [ ] [Grafana](#Grafana)
+- [ ] [Veracode](#Veracode)
 
 
 ### [[⬆]](#JavaScript) <a name='JavaScript' href='http://javascript.info/'>JavaScript</a>
@@ -361,4 +362,35 @@ https://blog.cloudflare.com/october-2021-facebook-outage/
 ### [[⬆]](#Grafana) <a name='Grafana'>Grafana</a>
 * [Grafana Explained](https://www.youtube.com/watch?v=lILY8eSspEo)
 
+### [[⬆]](#Veracode) <a name='Veracode'>Veracode</a>
+
+https://docs.veracode.com/ - Veracode documentation 
+Veracode services are available from region-specific servers - https://docs.veracode.com/r/Region_Domains_for_Veracode_APIs
+* Veracode Static Analysis for scanning your code and reviewing scan results.
+* Veracode Software Composition Analysis (SCA) for building an inventory of your third-party components, including open-source and commercial code, to identify vulnerabilities.
+* Veracode Dynamic Analysis for scanning live web applications and REST APIs. You can also perform dynamic scans with DAST Essentials.
+* Veracode Discovery for analyzing your web application perimeter and performing focused searches for web applications.
+* Veracode Analytics for monitoring the security status of your applications and how your organization is using the Veracode Platform.
+* Veracode Manual Penetration Testing for working with one or more Veracode penetration testers to perform tests and simulate real-life attacks on your web applications.
+
+Veracode integrations
+Veracode provides several integrations for adding security testing to your software development tools, such as IDEs, build systems, and ticketing systems. You can also perform and automate most application security tasks using the Veracode APIs.
+* Veracode APIs for automating your application security program, including administration, code scanning, and scan results. To get started with the REST APIs, see the quickstart.
+* Veracode SCA Agent-Based Scan for integrating Veracode Software Composition Analysis into your continuous integration (CI) and desktop tools. To get started, see the quickstart.
+* IDE Integrations:
+    * Veracode Static Analysis for uploading your code to Veracode for scanning and reviewing results from within your IDE.
+    * Veracode SCA for finding vulnerabilities in open-source components from within your IDE.
+    * Veracode Greenlight for scanning your code and reviewing results directly in your IDE.
+* CI/CD integrations for uploading your code to Veracode for scanning and reviewing results from within your build pipeline. You can use a Pipeline Scan to add security testing directly into your development pipeline.
+* Ticketing and issue tracking integrations for importing and managing security findings as issues in Agile and defect-tracking tools.
+* Archer integration for assessing the Governance, Risk, and Compliance (GRC) of your applications.
+
+A Cloud-Native Solution
+Veracode delivers a cloud-native solution for managing risk across your entire application portfolio. Our expertise is based on analyzing customer programs for more than a decade.
+Gain unprecedented visibility into application status across all common testing types in a centralized view.
+By bringing the full benefits of the cloud together with automated application analysis in the pipeline and on-demand expertise, Veracode enables developers, unifies teams and processes, and effortlessly scales your program as your business evolves.
+
+https://www.youtube.com/watch?v=Ippcu3kEtqY - Veracode 
+https://www.youtube.com/watch?v=Mv9R615B_34&list=PLeiyXUuWBjKE5Ox7DWPabq3edYQdn6vTE - Pipeline scan 
+https://www.youtube.com/watch?v=N24SngdTohU
 
